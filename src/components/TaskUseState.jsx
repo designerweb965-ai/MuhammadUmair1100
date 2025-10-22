@@ -12,6 +12,7 @@ const TaskUseState = () => {
       <button onClick={()=>setNumber("098777")}>Click me</button>
       <button onClick={()=>setFirstName("Shahzaib")}>Click me</button>
       <button onClick={()=>setLastName("Arif")}>Click me</button>
+      <h1>shahzainb and umair</h1>
     </div>
   )
 }
